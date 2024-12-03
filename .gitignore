@@ -1,0 +1,6 @@
+run
+*.pt
+weights/*
+football-players-detection-1
+__pycache__
+.env
