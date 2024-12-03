@@ -111,7 +111,8 @@ def main():
         draw_fps(frame_tracked)
         out_detect.write(frame_detected)
         out_tracking.write(frame_tracked)
-        out_tracking.write(frame_tracked)
+
+        frame_id += 1
         cv2.imshow('frame', frame_tracked)
         # cv2.imshow('frame', frame_detected)
 
