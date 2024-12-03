@@ -4,3 +4,5 @@ weights/*
 football-players-detection-1
 __pycache__
 .env
+video/detect_out.mp4
+video/tracking_out.mp4

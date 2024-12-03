@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 
-class Detection(object):
+class Detector(object):
     def __init__(self, weights):
         self.model = YOLO(weights)
 
