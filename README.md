@@ -1,4 +1,4 @@
-# Simple Yolo + ByteTracker Implementation
+# Simple Yolo + ByteTracker Application
 - This repo implement a simple MOT on football dataset ([roboflow](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1))
 - Using raw code from ByteTrack [repo](https://github.com/ifzhang/ByteTrack/tree/main/yolox/tracker) for educational purpose
 
